@@ -1,0 +1,11 @@
+/home/karlerik/dev/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/home/karlerik/dev/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/home/karlerik/dev/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/home/karlerik/dev/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/home/karlerik/dev/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/home/karlerik/dev/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csprojAssemblyReference.cache
+/home/karlerik/dev/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/home/karlerik/dev/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/home/karlerik/dev/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/home/karlerik/dev/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/home/karlerik/dev/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
